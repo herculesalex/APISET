@@ -7,3 +7,14 @@ http://www.jcazal.com/datoscontribuyentes/{razon_social o ruc}
 
 La misma puede ser consultada usando la razon social o el ruc.
 
+EL Json que nos retorna es:
+
+[
+  {
+    "dv": 0,
+    "id": 0,
+    "razon_social": "string",
+    "ruc": "string",
+    "tipo": "string"
+  }
+]
