@@ -14,6 +14,7 @@
 	<version>0.0.1</version>
 	<name>apiSET</name>
 	<description>Servicio para optener datos de contributentes</description>
+	<packaging>war</packaging>
 
 	<properties>
 		<java.version>1.8</java.version>

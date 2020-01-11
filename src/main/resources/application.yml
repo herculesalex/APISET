@@ -1,14 +1,14 @@
 server:
-  port: 9999
+  port: 8080
 
 # Spring Boot configuration
 spring:
   # Database
   datasource:
     driver-class-name: org.postgresql.Driver
-    url: jdbc:postgresql://localhost:5432/prueba
+    url: jdbc:postgresql://jcazalcontribuyentes.cwjgtmsunsov.sa-east-1.rds.amazonaws.com:5432/
     username: postgres
-    password: 5157663
+    password: jcazal54
   # JPA properties
   jpa:
     hibernate:
