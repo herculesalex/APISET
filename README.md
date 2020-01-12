@@ -3,7 +3,7 @@ Api para consultar Datos de la SET - Paraguay
 
 Para poder utilizar la api, se debe de acceder a la sgte URL:
 
-GET: https://www.jcazal.com/datoscontribuyentes/{ruc_o_razon_social}
+GET: https://jcazal.com/datoscontribuyentes/{ruc_o_razon_social}
 
 La misma puede ser consultada usando la razon social o el ruc.
 
@@ -22,7 +22,7 @@ EL Json que nos retorna es:
 Como se ve nos retorna un listado, ya que la api esta preparada para hacer busquedas por coincidencia; es decir, en caso de que no sepamos el ruc completo o el nombre completo de la razón social, nos devolvera un listado con las posibles coindicencias.
 
 Ej:
-https://www.jcazal.com/datoscontribuyentes/ñanduti
+https://jcazal.com/datoscontribuyentes/ñanduti
 
 nos retorna
 ```json
