@@ -3,7 +3,7 @@ Api para consultar Datos de la SET - Paraguay
 
 Para poder utilizar la api, se debe de acceder a la sgte URL:
 
-http://www.jcazal.com/datoscontribuyentes/{razon_social o ruc}
+GET: http://www.jcazal.com/datoscontribuyentes/{ruc_o_razon_social}
 
 La misma puede ser consultada usando la razon social o el ruc.
 
